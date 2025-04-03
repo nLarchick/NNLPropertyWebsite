@@ -7,6 +7,10 @@
     display: flex;
 }
 
+.internal {
+    padding-bottom: 5px;
+}
+
 header {
     background-color: pink;
 }
